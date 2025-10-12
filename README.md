@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhonePe Transaction Insights
 
 ## Project Summary
@@ -39,3 +40,7 @@ Analyze PhonePe Pulse JSON dataset to create aggregated analytics, choropleth ma
 ## Notes & Troubleshooting
 - Pulse JSON structures vary; ETL aims to handle typical cases. If you find missing records, open the JSON file and add a small parser branch in `etl.py`.
 - GeoJSON naming sometimes uses different keys. Adjust `featureidkey` in `streamlit_app.py` to match the property used in the geojson file.
+=======
+# PhonePe_Transaction_Insights
+Data Analysis and Visualization of PhonePe Pulse dataset using Python, SQL, and Streamlit
+>>>>>>> edfc9612977516cb0cb7c2ea2725e712c9dfef3d
