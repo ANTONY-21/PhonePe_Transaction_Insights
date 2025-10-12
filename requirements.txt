@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+plotly
+psycopg2-binary
+geopandas
+shapely
+folium
+streamlit-folium
+matplotlib
+sqlalchemy
