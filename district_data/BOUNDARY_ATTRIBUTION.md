@@ -1,0 +1,5 @@
+# District boundary attribution
+
+The district boundary data is derived from [DataMeet India community's 2011 Census district map](https://github.com/datameet/maps/tree/b3fbbde595310b397a55d718e0958ce249a4fa1f/Districts/Census_2011), shared under [Creative Commons Attribution 2.5 India](https://creativecommons.org/licenses/by/2.5/in/). It was converted from a shapefile to compressed GeoJSON and has added normalized identifiers and bounding boxes. The data depicts 2011 boundaries, which may differ from current districts.
+
+The optional historical 2019 district collection was converted from TopoJSON using topojson-client. Source: Guneet Narula and contributors, https://github.com/guneetnarula/indian-district-boundaries, commit d0347469bf845b96dd98fc61e80a28a8235190eb. The repository includes an MIT license (see LICENSE_Districts_2019_MIT.txt) and acknowledges DataMeet, Aaditya Dar, Justin Elliot Meyers and Abhijeet. The source labels individual boundaries 2011–2019; they may differ from current districts. See boundary_2019_metadata.json.

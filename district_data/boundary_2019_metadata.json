@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/guneetnarula/indian-district-boundaries/tree/d0347469bf845b96dd98fc61e80a28a8235190eb",
+  "source_commit": "d0347469bf845b96dd98fc61e80a28a8235190eb",
+  "description": "2019 district collection; individual features are labeled from 2011 through 2019",
+  "license": "MIT, with attribution to DataMeet and contributors",
+  "features": 734,
+  "source_sha256": "115c895755d7c0a4bda0636acf4e95526d0121c67f56ffe4668ee85ff3952ed9",
+  "geojson_sha256": "52c48be4c7cda249ff95711090d637fa41eabfb3a1bccbe717e8ece7cd31a56c",
+  "note": "Historical and potentially changed boundaries; name matches do not establish current extents."
+}

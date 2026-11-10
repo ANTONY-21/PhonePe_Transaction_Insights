@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/PhonePe/pulse",
+  "source_commit": "257bf38e3095020f9f516c4c72c10bdc348781b1",
+  "source_path": "data/map/transaction/hover/country/india/state",
+  "source_commit_date": "2026-09-24",
+  "license": "Community Data License Agreement - Permissive 2.0",
+  "files_read": 1224,
+  "rows": 26616,
+  "sha256": "1378617cac9a40de4a36b6dfbca5eee75fdcf70f2ae279c4c7196fa1dcb2f80d",
+  "note": "This revised upstream source is separate from the older local SQLite database snapshot."
+}

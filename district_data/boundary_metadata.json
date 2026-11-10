@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/datameet/maps/tree/b3fbbde595310b397a55d718e0958ce249a4fa1f/Districts/Census_2011",
+  "source_commit": "b3fbbde595310b397a55d718e0958ce249a4fa1f",
+  "source_description": "2011 Census districts by DataMeet India community",
+  "license": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/in/",
+  "boundary_year": 2011,
+  "features": 641,
+  "sha256": "7731b8c5f2d96575967a5df0ff7c2fa7bd13aeeec43e9ea6c97935c4acf5a9c7",
+  "note": "2011 boundaries may not match current districts or their extents."
+}

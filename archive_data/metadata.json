@@ -1,0 +1,20 @@
+{
+  "source": "https://github.com/KGR23/Data",
+  "source_commit": "ec45c246a23382d40a1807a8e1019b571b0b4173",
+  "commit_date": "2025-03-04",
+  "source_description": "Third-party archived mirror of the historical PhonePe Pulse dataset; not the current restated release.",
+  "license": "CDLA-Permissive-2.0",
+  "insurance_rows": 701,
+  "top_pincode_rows": 10277,
+  "skipped_invalid_pins": 2,
+  "transaction_category_comparison": {
+    "matched": 5034,
+    "different": 0,
+    "missing_from_database": 0
+  },
+  "sha256": {
+    "transaction_top_pincodes.csv.gz": "1f040b1e77260fbfa2a0421301f5d24b4850168ab616f2320309c7c0751484b4",
+    "aggregated_insurance.csv.gz": "84b09d8658f4ddd321c4711fb21c5b5053653b246898ee9ddf37b009091f0cf3"
+  },
+  "note": "PIN rows are source-provided top entries by transaction count, not a complete PIN dataset. Insurance totals are separate from payment transaction totals."
+}
